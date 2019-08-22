@@ -1,0 +1,24 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Simple calculator",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ad3mola/simple-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Ad3mola.github.io/calculator",
+  "bugs": {
+    "url": "https://github.com/Ad3mola/simple-calculator/issues"
+  },
+  "homepage": "https://github.com/Ad3mola/simple-calculator#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
